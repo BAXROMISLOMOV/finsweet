@@ -1,0 +1,132 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+
+}
+
+.navbar {
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    background-color: #232536;
+    justify-content: space-between;
+
+}
+
+.box {
+    display: flex;
+    gap: 30px;
+}
+
+p {
+    color: #ffffff;
+    font-size: 20px;
+    text-decoration: none;
+    transition: color 0.3s ease;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+.text {
+    color: antiquewhite;
+}
+
+h2 {
+    color: whitesmoke;
+}
+
+path {
+    fill: wheat;
+    ;
+}
+.container {
+     padding: 28px 160px ;
+     width: 100%;
+     background-color: #232536; 
+}
+.content{
+    width: 100%;
+    background-color:#232536 ;
+    display: flex;
+    padding-top: 50px;
+   
+}
+
+button{
+    background-color: #444CFC ;
+    color: white;
+    padding: 25px 30px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+.card{
+    display: flex;
+}
+.img{
+    padding-top: 96px;
+    padding-right: 96px;
+}
+.text1{
+    padding-top: 152px ;
+
+
+}
+h1{
+    padding-bottom: 10px;
+    font-size: 56px;
+    color: #fff;
+}
+.img{
+    display: flex;
+}
+footer{
+    width: 100%;
+   
+}
+.card2{
+    display: flex;
+    text-decoration: none;
+    justify-content: space-between;
+    padding-top:40px;
+}
+
+.container2{
+    padding: 80px 160px ;
+    width: 100%;
+    background-color: #fff;
+}
+
+.box2{
+    display: flex;
+    gap: 30px;
+}
+.content2{
+  color: black;
+  display: flex;
+  justify-content: space-around;
+}
+.box-cards{
+    display: flex;
+    gap: 10px;
+}
+.one{
+    display: flex;
+}
+.cards{
+    padding-top: 40px;
+}
+.box-card2{
+    display: flex;
+    gap: 10px;
+    padding-top:80px;
+}
+.a{
+    margin-left: 45%;
+    justify-content: space-between;
+}
